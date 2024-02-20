@@ -1,0 +1,21 @@
+/*reset*/
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+/* styles généraux */
+body {
+    background-color: rgb(211 ,211 ,211);
+    font-family: "Radjhani", sans-serif;
+}
+
+.nav-link:hover {
+    color: red;
+}
+
+
+
+/* boutons carousel */
+.carousel-control-prev, .carousel-control-next  {
+    padding: 10px;
+    background-color: rgb(56, 58, 59);
