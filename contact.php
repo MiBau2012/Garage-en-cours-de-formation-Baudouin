@@ -53,7 +53,7 @@
   
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider:'>'">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html" class="text-danger">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="index.php" class="text-danger">Accueil</a></li>
             <li class="breadcrumb-item active">Contact</li>
         </ol>
     </nav>

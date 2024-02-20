@@ -50,7 +50,7 @@
 <!--Début du breadcrumb-->
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider:'>'"> 
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html" class="text-danger">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="index.php" class="text-danger">Accueil</a></li>
             <li class="breadcrumb-item active" aria-current="page" classe="text-light">Occasions</li>
         </ol>
     </nav>
