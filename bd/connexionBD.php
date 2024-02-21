@@ -3,8 +3,8 @@
  class connexionBD {
     private $host ='localhost';  //nom de l'host
     private $name ='garage';       //nom de la BD
-    private $user ='root';         //utilisateur
-    private $pass ='';             //mot de passe mais on ne met rien si on est sur windows
+    private $user ='baudouin';         //utilisateur
+    private $pass ='parrot31';             //mot de passe mais on ne met rien si on est sur windows
     private $connexion;
     
     function __construct($host = null, $name = null, $user = null, $pass = null){

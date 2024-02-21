@@ -96,8 +96,8 @@
             <?php 
      // Paramètres de connexion à la base de données
     $serveur = "localhost";
-    $user = "root";
-    $pass = "";
+    $user = "baudouin";
+    $pass = "parrot31";
     $bd = "garage";                    
                         
     $mysqli = new mysqli($serveur, $user, $pass, $bd);
